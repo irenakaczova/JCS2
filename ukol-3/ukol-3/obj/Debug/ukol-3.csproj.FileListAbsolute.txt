@@ -1,0 +1,7 @@
+C:\Users\irena\OneDrive\Desktop\JCS2-2022\ukol-3\ukol-3\ukol-3\bin\Debug\ukol-3.exe.config
+C:\Users\irena\OneDrive\Desktop\JCS2-2022\ukol-3\ukol-3\ukol-3\bin\Debug\ukol-3.exe
+C:\Users\irena\OneDrive\Desktop\JCS2-2022\ukol-3\ukol-3\ukol-3\bin\Debug\ukol-3.pdb
+C:\Users\irena\OneDrive\Desktop\JCS2-2022\ukol-3\ukol-3\ukol-3\obj\Debug\ukol-3.csproj.AssemblyReference.cache
+C:\Users\irena\OneDrive\Desktop\JCS2-2022\ukol-3\ukol-3\ukol-3\obj\Debug\ukol-3.csproj.CoreCompileInputs.cache
+C:\Users\irena\OneDrive\Desktop\JCS2-2022\ukol-3\ukol-3\ukol-3\obj\Debug\ukol-3.exe
+C:\Users\irena\OneDrive\Desktop\JCS2-2022\ukol-3\ukol-3\ukol-3\obj\Debug\ukol-3.pdb
